@@ -1,4 +1,1 @@
-### FAISS Retrieval Augmented Generation Benchmark
-
-
-### LlaMANADE - LlaMA for Nasa Astrophysics Data SystEm
+### LLaMANADE - LlaMA for Nasa Astrophysics Data SystEm
